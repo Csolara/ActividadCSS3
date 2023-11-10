@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/*menú inicial*/
+.tabla{
+	background-color: grey;
+	width: 80%;
+	border: solid red;
+	height: 290px;
+}
+.rojo{
+	color: red;
+	font-family: verdana;
+}
+.blanco{
+	color: white;
+
+}
+.cabezera{
+	font-size: 2em;
+}
+.margenizq{
+	margin-left: 3rem;
+}
+.margenabajo{
+	margin-bottom: 2rem;
+}
+.margenarriba{
+	margin-top: 4rem;
+}
